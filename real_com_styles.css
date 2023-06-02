@@ -1,0 +1,60 @@
+
+.sounds {
+    margin: 50px;
+    height: 7%;
+    width: 3.5%;
+    padding: 0px;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Comic Sans MS';
+    font-size: 30px;
+    font: bold;
+    border:3px solid green;
+    top:1px;
+    position:absolute;
+    background-image:url('sound.png');
+    background-size:100%;
+}
+.sounds2 {
+    margin: 50px;
+    height: 7%;
+    width: 3.5%;
+    padding: 0px;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Comic Sans MS';
+    font-size: 30px;
+    font: bold;
+    border: 3px solid green;
+    position:absolute;
+    top:9%;
+    background-image:url('mute.png');
+    background-size:100%;
+    padding:0px;
+}
+.sounds:hover {
+    scale:1.043;
+    font-size:31px;
+}
+.sounds2:hover {
+    scale:1.043;
+    font-size:31px;
+}
+.bill {
+    position:absolute;
+    width:7%;
+    bottom:1px;
+}
+.real {
+    text-align: center;
+    margin:0px;
+    font-family: Courier New, Courier, monospace;
+    font-size: 250px;
+    background-image: linear-gradient(palegreen, white)
+}
+.gif {
+    margin:auto;
+    vertical-align:central;
+    display:block;
+    width:35%;
+}
